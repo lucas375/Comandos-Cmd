@@ -13,5 +13,5 @@ ECHO - ESCREVER NO ARQUIVO = "TEXTO" > NOME DO ARQUIVO
 TYPE - LER ARQUIVO
 COPY - COPIAR ARQUIVO (NOME DA COPIA NOME DO ARQUIVO)
 RENAME TROCAR NOME DO ARQUIVO = NOVO NOME NOME ORIGIANL 
-setx - Modificar permanentemente as variáveis = (prompt-administrador)  PATH "%PATH%;C:\Users\caelum\bin" /M
+SETX - MODIFICA PERMANENTEMENTE AS VARIÁVEIS = (PROMPT-ADM)  PATH "%PATH%;C:\Users\caelum\bin" /M
 **********************************************
